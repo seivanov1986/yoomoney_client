@@ -1,0 +1,6 @@
+# github.com/google/uuid v1.5.0
+## explicit
+github.com/google/uuid
+# github.com/seivanov1986/http_client v0.0.0-20231214120757-b7af31318ab7
+## explicit; go 1.21.3
+github.com/seivanov1986/http_client
